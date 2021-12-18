@@ -1,0 +1,12 @@
+login:
+  api: /auth/oauth/token
+  headers:
+    Authorization: Basic dGVybWluYWwtbWFuYWdlOnRlcm1pbmFsLW1hbmFnZQ==
+    Accept-Encoding: gzip, deflate, br
+    Connection: keep-alive
+    User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36 Edg/92.0.902.62
+  data:
+    username: '18599990000'
+    password: '123456'
+    grant_type: password
+    scope: agent

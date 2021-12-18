@@ -1,0 +1,8 @@
+requests==2.25.1
+yagmail==0.14.256
+jsonpath==0.82
+TestRunner==0.8.4
+PyYAML==5.4.1
+ddt==1.4.2
+PyMySQL==1.0.2
+loguru==0.5.3
